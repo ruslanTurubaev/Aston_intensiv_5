@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aston_intensive_5</string>
+    <string name="label">Fragments</string>
+    <string name="save">Save</string>
+    <string name="first_name">First name</string>
+    <string name="second_name">Second name</string>
+    <string name="tel_number">Tel number</string>
+</resources>
